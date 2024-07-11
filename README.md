@@ -5,7 +5,7 @@ Open-hardware laptop computer modules description and concept.
 These are electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access.
 See the [main repository](https://github.com/balthazar-space/balthazar) for other designs.
 
-# BalthazarPSU 
+# Balthazar PSU 
 
 Module BalthazarPSU is a combined battery charger, buck-boost coverter and stereo power amplifier. 
 KiCad 5.1.5 files can be found here.
